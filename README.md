@@ -1,2 +1,2 @@
 # my-first-test-repos
-My First Test repository
+My First Test Repository
